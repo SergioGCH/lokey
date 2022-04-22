@@ -1,0 +1,14 @@
+# https://aloneonahill.com/blog/url-rewriting-for-beginners/
+
+RewriteEngine On
+
+#ErrorDocument 400 not-found-page.html [NC,L] # Bad Request
+#ErrorDocument 401 not-found-page.html [NC,L] # Authorization Required
+#ErrorDocument 403 not-found-page.html [NC,L] # Forbidden Page
+#ErrorDocument 404 errordocument.php?error=404 # File/Page not Found
+#ErrorDocument 500 /errordocument.php # Internal Error
+
+RewriteRule ^inicio$ index.php [NC,L]
+RewriteRule ^tienda$ tienda.php [NC,L]
+RewriteRule ^conocenos$ conocenos.php [NC,L]
+RewriteRule ^contactanos$ contactanos.php [NC,L]
