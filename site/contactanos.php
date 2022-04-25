@@ -50,25 +50,25 @@
           <div class="form_container">
             <div class="heading_container">
               <h2>
-                Contact Us
+                Contáctanos
               </h2>
             </div>
             <form action="">
               <div>
-                <input type="text" placeholder="Full Name " />
+                <input type="text" placeholder="Nombre completo " />
               </div>
               <div>
                 <input type="email" placeholder="Email" />
               </div>
               <div>
-                <input type="text" placeholder="Phone number" />
+                <input type="text" placeholder="Teléfono" />
               </div>
               <div>
-                <input type="text" class="message-box" placeholder="Message" />
+                <input type="text" class="message-box" placeholder="Mensaje" />
               </div>
               <div class="d-flex ">
                 <button>
-                  SEND
+                  ENVIAR
                 </button>
               </div>
             </form>

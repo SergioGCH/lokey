@@ -229,7 +229,7 @@
       </div>
       <div class="btn-box">
         <a href="">
-          View All
+          Ver todo
         </a>
       </div>
     </div>

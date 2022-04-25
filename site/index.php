@@ -155,7 +155,9 @@
           ¿Por qué usar Lokey?
         </h2>
         <p>
-          Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Lokey es un aparato de uso sencillo que nos permite guardar la localización actual con un solo
+		  click. A través de la aplicación Lokey disponible en Play Store podremos sincronizar el dispositivo
+		  y gestionar las localizaciones guardadas, así como visualizarlas en el mapa. 
         </p>
       </div>
       <div class="row">
@@ -173,7 +175,7 @@
               </p>
               <a href="">
                 <span>
-                  Read More
+                  Ver más
                 </span>
                 <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
               </a>
@@ -187,14 +189,14 @@
             </div>
             <div class="detail-box">
               <h5>
-                Alerts & Notifications
+                Alertas & Notificaciones
               </h5>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
               </p>
               <a href="">
                 <span>
-                  Read More
+                  Leer más
                 </span>
                 <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
               </a>
@@ -208,14 +210,14 @@
             </div>
             <div class="detail-box">
               <h5>
-                Messages
+                Comparte
               </h5>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                Envía tus localizaciones a través de las redes sociales
               </p>
               <a href="">
                 <span>
-                  Read More
+                  Leer más
                 </span>
                 <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
               </a>
@@ -232,11 +234,11 @@
                 Bluetooth
               </h5>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                Sincroniza con tu smartphone
               </p>
               <a href="">
                 <span>
-                  Read More
+                  Leer más
                 </span>
                 <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
               </a>
@@ -246,7 +248,7 @@
       </div>
       <div class="btn-box">
         <a href="">
-          View More
+          Ver más
         </a>
       </div>
     </div>
@@ -268,17 +270,15 @@
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                About Us
+                Quiénes somos
               </h2>
             </div>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+              Somos dos estudiantes de Ingeniería informática de la Universidad de Zaragoza con 
+			  ganas de emprender y entrar en el mercado tecnológico... 
             </p>
             <a href="">
-              Read More
+              Leer más
             </a>
           </div>
         </div>
@@ -293,7 +293,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          Testimonial
+          Reseñas
         </h2>
       </div>
       <div class="carousel-wrap ">
@@ -307,10 +307,10 @@
                 <div class="client_info">
                   <div class="client_name">
                     <h5>
-                      Mark Thomas
+                      Marcos Tomás
                     </h5>
                     <h6>
-                      Customer
+                      Cliente
                     </h6>
                   </div>
                   <i class="fa fa-quote-left" aria-hidden="true"></i>
@@ -336,10 +336,10 @@
                 <div class="client_info">
                   <div class="client_name">
                     <h5>
-                      Alina Hans
+                      Alicia Morales
                     </h5>
                     <h6>
-                      Customer
+                      Cliente
                     </h6>
                   </div>
                   <i class="fa fa-quote-left" aria-hidden="true"></i>
