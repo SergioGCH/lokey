@@ -47,7 +47,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          Latest Watches
+          ¡Consigue tu Lokey!
         </h2>
       </div>
       <div class="row">
@@ -59,18 +59,18 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  Smartwatch
+                  Lokey
                 </h6>
                 <h6>
-                  Price:
+                  Precio:
                   <span>
-                    $300
+                    24€
                   </span>
                 </h6>
               </div>
               <div class="new">
                 <span>
-                  Featured
+                  Destacado
                 </span>
               </div>
             </a>
@@ -84,18 +84,18 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  Smartwatch
+                  Lokey
                 </h6>
                 <h6>
-                  Price:
+                  Precio:
                   <span>
-                    $125
+                    24€
                   </span>
                 </h6>
               </div>
               <div class="new">
                 <span>
-                  New
+                  Nuevo
                 </span>
               </div>
             </a>
@@ -109,10 +109,10 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  Smartwatch
+                  Lokey
                 </h6>
                 <h6>
-                  Price:
+                  Precio:
                   <span>
                     $110
                   </span>
@@ -120,7 +120,7 @@
               </div>
               <div class="new">
                 <span>
-                  New
+                  Nuevo
                 </span>
               </div>
             </a>
@@ -134,10 +134,10 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  Smartwatch
+                  Lokey
                 </h6>
                 <h6>
-                  Price:
+                  Precio:
                   <span>
                     $145
                   </span>
@@ -145,7 +145,7 @@
               </div>
               <div class="new">
                 <span>
-                  New
+                  Nuevo
                 </span>
               </div>
             </a>
@@ -159,10 +159,10 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  Smartwatch
+                  Lokey
                 </h6>
                 <h6>
-                  Price:
+                  Precio:
                   <span>
                     $195
                   </span>
@@ -170,7 +170,7 @@
               </div>
               <div class="new">
                 <span>
-                  New
+                  Nuevo
                 </span>
               </div>
             </a>
@@ -184,10 +184,10 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  Smartwatch
+                  Lokey
                 </h6>
                 <h6>
-                  Price:
+                  Precio:
                   <span>
                     $170
                   </span>
@@ -195,7 +195,7 @@
               </div>
               <div class="new">
                 <span>
-                  New
+                  Nuevo
                 </span>
               </div>
             </a>
@@ -205,14 +205,14 @@
           <div class="box">
             <a href="">
               <div class="img-box">
-                <img src="images/w1.png" alt="">
+                <img src="images/w7.png" alt="">
               </div>
               <div class="detail-box">
                 <h6>
-                  Smartwatch
+                  Lokey
                 </h6>
                 <h6>
-                  Price:
+                  Precio:
                   <span>
                     $230
                   </span>
@@ -220,7 +220,7 @@
               </div>
               <div class="new">
                 <span>
-                  New
+                  Nuevo
                 </span>
               </div>
             </a>
