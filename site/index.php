@@ -114,7 +114,7 @@
                 <div class="col-md-6">
                   <div class="detail-box">
                     <h1>
-                      App intuitiva
+                      LokeyMe
                     </h1>
                     <p>
                       Lokey se conecta mediante bluetooth a la aplicación dedicada, la cual permite guardar e interactuar con tu Lokey.
