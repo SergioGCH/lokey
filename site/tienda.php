@@ -114,7 +114,7 @@
                 <h6>
                   Precio:
                   <span>
-                    $110
+                    24€
                   </span>
                 </h6>
               </div>
@@ -139,7 +139,7 @@
                 <h6>
                   Precio:
                   <span>
-                    $145
+                    24€
                   </span>
                 </h6>
               </div>
@@ -164,7 +164,7 @@
                 <h6>
                   Precio:
                   <span>
-                    $195
+                    24€
                   </span>
                 </h6>
               </div>
@@ -189,7 +189,7 @@
                 <h6>
                   Precio:
                   <span>
-                    $170
+                    24€
                   </span>
                 </h6>
               </div>
@@ -214,7 +214,7 @@
                 <h6>
                   Precio:
                   <span>
-                    $230
+                    24€
                   </span>
                 </h6>
               </div>
