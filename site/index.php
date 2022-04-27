@@ -65,7 +65,7 @@
                       Lokey, ubicación al momento
                     </h1>
                     <p>
-                      Guarda fácil tus ubicaciones, sin necesidad te interactuar constantemente con tu smartphone. Un simple botón con una simple función.
+                      Guarda fácil tus ubicaciones, sin necesidad de interactuar constantemente con tu smartphone. Un simple botón con una simple función.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
